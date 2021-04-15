@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experiencias com linguagens</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <h1>Aprendendo novas linguagens</h1>
+        <h2>Minha primeira linguagem</h2>
+        <h3>Phyton</h3>
+        <p>Minha primeira experiencia na programação foi com uma linguagem chamada Phyton, foi nela que escrevi
+            minha primeira linha de código sendo ela o "Hello world", mais pra frente, aprendi a fazer contas matemáticas
+            e a salvar dados fornecidos pelo usuario "Qual seu nome?" e colocar-los na tela quando eu quisesse "Olá (nome)". Não segui muito no Phyton depois disso, já que ele era uma linguagem pouco ultilizado nas engines poderosas
+            de hoje em dia, não tinha muita ultilidade pra mim fora escrever códigos, então eu me mudei para o
+        </p>
+        <h3>JavaScript</h3>
+        <p>O <abbr title="JavaScript">JS</abbr> foi a minha segunda linguagem, uma linguagem que eu gostava muito e ainda gosto
+           Já que ela tinha resultados muito legais nas minhas paginas, aprendendo o <abbr title="JavaScript">JS</abbr>, querendo ou não eu tinha que saber no minimo um pouco de HTML e as CSS para poder criar uma página simples para poder por em pratica meus scripts, coisas basicas como mudar a cor do site e escrever textos neles só eram possiveis com o HTMl e as CSS, então eu decidi pausar os meus estudos dessa lingugagem e decidi aprender o HMTL e as CSS antes de dar continuidade ao JavaScript
+           <h3>HTML</h3>
+           <p>É a principal linguagem que eu estou ultilizando para fazer esse site e é uma das linguagens que eu mais gostei de aprender, no começo meu foco não era desenvolvimento web mas eu estou gostando de criar sites e aprender novas funcões para melhora-los, ainda vou dar foco nessa linguagem que é a principal linguagem para criar sites no mundo.</p>
+           <h3>CSS</h3>
+           <p>A outra linguagem que estou ultilizando para criar esse site, é uma linguagem mais chatinha de aprender mas que causa um efeito esmagador se não for usado, HMTL puro sem CSS fica uma pagina muito feia, CSS meche muito com cores e é um tópico que eu tambem estou aprendendo, CSS tem uma linha de codigo as vezes meio complicada mas causa satisfação quando completa</p>
+           <h4>Linguagens que eu quero aprender:</h4>
+            
+           <ul>
+               <li><strong>Flutter</strong> - Mobile cross plataform</li>
+           </ul>
+           
+    </main>
+    <div>
+        <h4>Redes sociais</h4>
+        <p style="font-family: sans-serif;">Acesse o meu: </p><a href="https://github.com/DevGuiMBT" rel="next" target="_blank"><img src="imagens/github-mark.png" alt="GitHub logo" height="30px"></a>
+
+       <div id="paragrafo" style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> <!--wtf pelo menos funcionaKKKKKK-->
+            para ver esse e outros repositorios <br> 
+
+     <a href="https://www.instagram.com/eugui_trindade/" rel="next" target="_blank"> <img src="imagens/instagram-logo.png" alt="Instagram logo" height="30px"> </a> Para meu Instagram
+    </div> 
+    </div>
+    
+</body>
+</html>
